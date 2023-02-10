@@ -1,3 +1,3 @@
-# Mi primer README
+# Mi primer README práctica
 Prueba de repositorio
 Editor
