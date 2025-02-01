@@ -1,0 +1,15 @@
+body {
+    background-color: #e9d8ca; /* Peach Puff */
+    color: #333; /* Dark text for contrast */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+.carousel-item img {
+    width: 70%;
+    height: 500px; 
+    object-fit: cover;
+  }
+  
