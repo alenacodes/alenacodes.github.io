@@ -13,3 +13,33 @@ body {
     object-fit: cover;
   }
   
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/*navbar*/
+
+.navbar {
+    background-color: #333;
+    overflow: hidden;
+    display: flex;
+    padding: 10px 20px;
+}
+
+.navbar a {
+    color: rgb(245, 213, 213);
+    text-decoration: none;
+    padding: 14px 20px;
+    display: block;
+}
+
+.navbar a:hover {
+    background-color: #575757;
+}
+
+.navbar .logo {
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: auto;
+}
